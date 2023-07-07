@@ -1,4 +1,4 @@
 <?php 
-  = 'Şahin'; 
- echo ; 
+ $isim = 'Şahin'; 
+ echo $isim; 
  ?>
