@@ -1,0 +1,23 @@
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Cras pulvinar nibh sit amet tristique imperdiet.
+Donec nec tellus facilisis, dignissim arcu eget, ultrices massa.
+Morbi posuere augue eget magna varius, et venenatis ex posuere.
+Mauris in ante non lacus semper posuere in vel sem.
+Etiam non tellus vitae velit egestas interdum ut at ante.
+Integer vehicula augue nec leo rhoncus mollis.
+Vivamus ut est varius leo tempor fringilla.
+Nunc ut elit non risus fringilla accumsan vitae nec orci.
+Praesent ultricies purus ullamcorper est rutrum, id ornare erat consectetur.
+Vestibulum eu quam non neque porta condimentum.
+Nunc vehicula quam non mauris feugiat, aliquet laoreet metus dictum.
+Aliquam ut dui a ex venenatis auctor.
+Nam elementum urna eget arcu maximus, ac elementum dolor imperdiet.
+Quisque non quam ultrices, maximus purus eu, porta leo.
+Donec vitae lacus non nisi dapibus interdum eu in urna.
+Donec eu ligula volutpat, bibendum mauris nec, laoreet ex.
+Cras ornare justo et augue dapibus, et suscipit libero porta.
+Morbi euismod orci et magna pharetra, et imperdiet arcu lacinia.
+Sed sit amet lacus id justo accumsan vehicula.
+Ut in elit eu libero sagittis vestibulum sed nec erat.VERİ!
+YENİ VERİYENİ VERİİçerik, file put contents ile eklendi.
+ Yeni İçerik, file put contents ile eklendi.
