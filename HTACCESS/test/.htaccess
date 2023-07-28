@@ -17,7 +17,8 @@ test dizininin içindekilerşn listelenmesine erişimi kaldirdik.
 #kullanici adi ve şifresi oluşturarak, sadece o kullanici adi ve şifresini bilenlerin giriş yapmasi sağlanir.
 AuthType Basic
 AuthName "Restricted Content"
-AuthUserFile 
+AuthUserFile ***
+require valid-user
 
 
 
