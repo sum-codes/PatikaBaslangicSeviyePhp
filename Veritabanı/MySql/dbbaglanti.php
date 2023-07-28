@@ -2,10 +2,6 @@
 
 //VERİTABANI BAĞLANTISI
 
-$dbh = new PDO('mysql:host=localhost;dbname=test', "root", "");
-if($dbh){
-    echo"bağlantı yapıldı.";
-}
 
 /*
 KOMUTLAR:

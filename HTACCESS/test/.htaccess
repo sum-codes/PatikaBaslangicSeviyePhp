@@ -1,0 +1,25 @@
+#Options -Indexes
+test dizininin içindekilerşn listelenmesine erişimi kaldirdik.
+
+#deny from all
+#dosyaya erişimi engellenir.
+
+#sadece spesifik bir ip adresine izin vermek için: **->ip adresini yazariz.
+#deny from all
+#allow from *****
+
+#tek bir dosyaya erişimi kisitlamak için:
+#<Files 'iletisim.php'> 
+#deny from all
+#</Files>
+
+#AUTHENTICATION
+#kullanici adi ve şifresi oluşturarak, sadece o kullanici adi ve şifresini bilenlerin giriş yapmasi sağlanir.
+AuthType Basic
+AuthName "Restricted Content"
+AuthUserFile 
+
+
+
+
+
